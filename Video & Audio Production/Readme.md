@@ -1,4 +1,4 @@
-# Video Production
+# 🎥Video Production
 
 ## Wrong Summon
 
@@ -8,12 +8,12 @@
 
 A short horror film created as part of my Audio and Video Production project.
 
-### About the Project
+### ✨About the Project
 
 This film is about a botched demon summoning; the protagonist decides to summon a demon but breaks the cardinal rule: never open your eyes. 
 I created the story entirely myself and assembled a team to help with the filming.
 
-### My Responsibilities
+### 📑My Responsibilities
 - Story development and planning
 - Directing the camera operator
 - Acting as the main character
@@ -21,7 +21,7 @@ I created the story entirely myself and assembled a team to help with the filmin
 
 
 
-## Script
+## 📝Script
 
 ## Scene 1
 
