@@ -1,7 +1,7 @@
 # 🕹️Game Development
 
 ## Escape from maze
-
+*Click the image below to watch game overview on YouTube.*
 [![Escapefrommaze](maze.png)](https://www.youtube.com/watch?v=nIEgBbBWne0)
 
 ### ✨About the Project
