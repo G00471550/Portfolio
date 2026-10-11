@@ -19,7 +19,7 @@ This is an animation about an aristocrat who somehow finds himself in the middle
 
 ## Music Box
 
-[![Musicbox](box.png)](https://youtu.be/1nLEj7n37xo)
+[![Musicbox](Box.png)](https://youtu.be/1nLEj7n37xo)
 
 ### ✨About the Project
 
