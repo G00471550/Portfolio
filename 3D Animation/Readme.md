@@ -10,20 +10,11 @@ This is an animation about an aristocrat who somehow finds himself in the middle
 
 ### My Responsibilities
 - Creating and animating the main character
-- Developing the scene and background
+- Developing the scene and world
 - Planning the character's movements
-- Creating the ghost appearance and disappearance effect
+- Create camera movment
 
-### Tools Used
-- Animation software
-- Digital drawing and animation techniques
+### Script
 
-### Preview
 
-*Click the image below to watch the animation.*
 
-<!-- Add your clickable preview image here -->
-
-### What I Learned
-
-This project helped me practise 2D character animation, movement timing, scene composition, and visual storytelling.
