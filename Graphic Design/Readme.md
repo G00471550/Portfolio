@@ -1,8 +1,8 @@
-# Graphic Design
+# 🖼️Graphic Design
 
 ## Meat & Wine
 
-### About the Project
+### ✨About the Project
 
 A graphic design project aimed at creating professional print materials for a restaurant. It encompasses the design of a brochure, flyer, poster, and business card, created using Adobe Photoshop and Illustrator. this restaurant is
 dedicated to gourmets who appreciate the taste of
@@ -14,7 +14,7 @@ mainly at people above the middle class.
 
 
 
-### Gallery
+### 🏞️Gallery
 
 <table>
   <tr>
