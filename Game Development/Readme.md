@@ -1,36 +1,19 @@
-# Game Development
+# 🕹️Game Development
 
 ## Escape from maze
 
 [![Escapefrommaze](maze.png)](https://www.youtube.com/watch?v=nIEgBbBWne0)
 
-### About the Project
+### ✨About the Project
 
-A 3D dungeon game prototype developed using Unity. The player explores a dungeon, collects a key, interacts with doors, and tries to complete the level while avoiding failure.
+This is my first game development project using Unity. Technically, the game is a continuation of my animation project featuring an aristocrat who got lost in the desert. This time, he has ended up in a sandy labyrinth and must find a way out.
 
-### Gameplay Features
-- First-person player movement
+### 🎮Gameplay
+- Third-person player movement
 - Key collection and door interaction
 - Interaction system
 - Main menu and settings
 - Win and lose conditions
 - Background music and volume controls
+- Map activation option
 
-### Technologies Used
-- Unity
-- C#
-- Unity Input System
-- Character Controller
-- UI development
-
-### My Role
-
-I developed the game mechanics, player controls, interactions, user interface, and gameplay logic.
-
-### Screenshots
-
-<!-- Add gameplay screenshots here -->
-
-### Source Code
-
-<!-- Add a link to the Unity project source code here -->
