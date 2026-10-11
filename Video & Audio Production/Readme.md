@@ -2,11 +2,11 @@
 
 ## Wrong Summon
 
+*Click the image below to watch the full film on YouTube.*
+
+[![WrongSummon](WrongSummon.png)](https://www.youtube.com/watch?v=MrQafvwZ-fQ)
+
 A short horror film created as part of my Audio and Video Production project.
-
-### Watch the Film
-
-[Watch the "Wrong Summon" on YouTube](https://www.youtube.com/watch?v=MrQafvwZ-fQ)
 
 ### About the Project
 
