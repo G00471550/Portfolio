@@ -10,4 +10,4 @@ A graphic design project aimed at creating professional print materials for a re
 
 ### Poster
 
-[![WrongSummon](WrongSummon.png)](https://www.youtube.com/watch?v=MrQafvwZ-fQ)
+![Poster](poster.png)
