@@ -2,7 +2,7 @@
 
 ## Strange food
 *Click the image below to go to website*
-[![Website](food.png)]()
+[![Website](food.png)](https://g00471550.github.io/Portfolio/StrangeFood/index.html)
 
 ### ✨About the Project
 
