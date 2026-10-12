@@ -47,9 +47,9 @@ This is an animation about an aristocrat who somehow finds himself in the middle
 This animation shows a music box from which a ballerina emerges and twirls on a platform to the music, after which she disappears back into the box and the lid slams shut.
 
 ### 📑My Responsibilities
-- Creating character and box
+- Creating figurine and box
 - Developing the scene
-- Planning the character's movements
+- Planning the stand movements
 - Create camera movment
 
 ### 📝Script
@@ -82,7 +82,7 @@ In this animation, a young apple tree stands in the middle of a field, and an ap
 ### 📑My Responsibilities
 - Creating and animating the apple's movements
 - Add grass movement
-- Developing the scene and world
+- Developing the scene
 - Create camera movment
 
 ### 📝Script
