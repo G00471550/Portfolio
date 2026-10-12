@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Bootstrap Demo</title>
+        <link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+        
+        <script type="text/javascript" src="https://code.jquery.com/jquery-3.7.1.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+        <script src="js/script.js"></script>
+        
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="css/style.css">
+    </head>
+
+    <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary " data-bs-theme="dark">
+            <div class="container-fluid">
+
+                <a class="navbar-brand" href="#">Pawcity Homes</a>
+
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll" aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarScroll">
+
+                <ul class="navbar-nav me-auto my-2 my-lg-0 navbar-nav-scroll" style="--bs-scroll-height: 100px;">
+                    
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="index.html">Meet the Dogs</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="success.html">Success Stories</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="contact.html">Apply to Adopt</a>
+                    </li>
+                    
+                </ul>
+                
+                </div>
+            </div>
+        </nav>
+
+
+        <div class="p-5 bg-dark text-light" style="margin-top:15px;">
+            Welcome to Pawcity Homes, a community-driven rescue dedicated to finding forever homes for abandoned and surrendered dogs. 
+                Our team works tirelessly to ensure every pup is healthy, happy, and ready for their new family. Whether you're looking for a
+                 playful puppy or a calm senior, we have a companion waiting for you.
+        </div>
+
+        <h1 class="mt-4">
+            Dogs currently looking for a home:
+        </h1>
+
+        <div class="container text-center mt-4">
+            <div class="row">
+                <div class="col-sm-12 col-md-12 col-lg-6 col-xl-4">
+                    <div class="card" style="width: auto;">
+                        <img src="img/golden.jpg" class="card-img-top" style="height: 400px;" alt="...">
+                        <div class="card-body">
+                            <h2>Buddy</h2>
+                            <p class="card-text">A 2-year-old Golden Retriever who loves long walks and playing fetch at the park.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-md-12 col-lg-6 col-xl-4">
+                    <div class="card" style="width: auto;">
+                        <img src="img/beagle.jpg" class="card-img-top" style="height: 400px;" alt="...">
+                        <div class="card-body">
+                            <h2>Bella</h2>
+                            <p class="card-text">A sweet Beagle mix with a curious nose and a heart of gold. Great with children!</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-md-12 col-lg-6 col-xl-4">
+                    <div class="card" style="width: auto;">
+                        <img src="img/greyhound.jpg" class="card-img-top" style="height: 400px;"  alt="...">
+                        <div class="card-body">
+                            <h2>Luna</h2>
+                            <p class="card-text"> A retired racing Greyhound looking for a cozy sofa and a quiet home to relax in.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <button id="dogGalBtn" class="btn btn-primary mt-5 center">Meet More Dogs</button>
+                <div id="dogs">
+                </div>
+        </div>
+
+        <div class="container">
+            
+        </div>
+    </body>
+</html>
