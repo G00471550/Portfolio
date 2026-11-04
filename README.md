@@ -44,3 +44,6 @@
 
 ### &emsp; Film library
 &emsp; &emsp; A website for collaction of movies, serials, anime, cartoons.
+
+
+*Portfolio is undergoing reconstruction; some information may be missing.*
