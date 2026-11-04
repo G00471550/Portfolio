@@ -1,6 +1,8 @@
+
 # 💼Portfolio
 
 ### &emsp; A projects created during my Computing and Digital Media studies
+&emsp; *Portfolio is currently being updated. Some information may be temporarily unavailable.*
 
 ##  🎥[Video & Audio Production](https://github.com/G00471550/Portfolio/tree/main/Video%20%26%20Audio%20Production)
 
@@ -46,4 +48,4 @@
 &emsp; &emsp; A website for collaction of movies, serials, anime, cartoons.
 
 
-*Portfolio is undergoing reconstruction; some information may be missing.*
+
